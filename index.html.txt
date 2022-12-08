@@ -1,0 +1,1 @@
+22-11-2022 6.3 GB ziped log file curamacre sudo gitlab-ctl registry-garbage-collect -m 23-11-2022 stage server AppOptics insallation token sudo bash -c "$(curl -sSL https://files.solarwinds.cloud/solarwinds-snap-agent-installer.sh)" -s --token c63e947f59eb7c2bcea80de9fb0e27fa545b9ed0d2b6e5142e9d73fcde250714 28-11-2022 UZ8
